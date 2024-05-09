@@ -22,3 +22,5 @@ If thoughts are organized around a sphere (or a sphere of sphere), then the card
 https://firebasestorage.googleapis.com/v0/b/theoriesofconsciousness.appspot.com/o/TESTDigital.pdf?alt=media&token=022a247f-e5c4-45e6-b5a6-431853765780
 
 "Unusual Mathematical Approaches to Nervous Dynamics" Authors: Arturo Tozzi" https://vixra.org/pdf/2201.0184v1.pdf 
+
+"The Unreasonable Effectiveness of Mathematics on Philosophy" https://vixra.org/abs/2405.0051
