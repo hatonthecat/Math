@@ -1,6 +1,8 @@
 # Math
 Reference Material
 
+https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/
+
 https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf
 
 The Unreasonable Effectiveness of Mathematics in the Natural Sciences, by Eugene Wigner (02/1960)
