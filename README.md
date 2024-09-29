@@ -9,6 +9,9 @@ The Unreasonable Effectiveness of Mathematics in the Natural Sciences, by Eugene
  
 https://www.math.ias.edu/files/Book-online-Aug0619.pdf#page=1 Mathematics and Computation (version 8/6/2019) Avi Wigderson
 
+https://spectrum.ieee.org/alternative-for-gps
+
+Quantum sensors are reaching unprecedented levels of sensitivity and accuracy for use in potential applications such as detecting the magnetic fields of thoughts. https://spectrum.ieee.org/a-new-wearable-brain-scanner (This link is not an endorsement).
 
 Mathematical models of the Mind's Eye(s)
 --
