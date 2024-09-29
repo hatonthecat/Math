@@ -11,7 +11,7 @@ https://www.math.ias.edu/files/Book-online-Aug0619.pdf#page=1 Mathematics and Co
 
 https://spectrum.ieee.org/alternative-for-gps
 
-Quantum sensors are reaching unprecedented levels of sensitivity and accuracy for use in potential applications such as detecting the magnetic fields of thoughts. https://spectrum.ieee.org/a-new-wearable-brain-scanner (This link is not an endorsement).
+"Quantum sensors are reaching unprecedented levels of sensitivity and accuracy for use in potential applications such as detecting the magnetic fields of thoughts." https://spectrum.ieee.org/a-new-wearable-brain-scanner (This link is not an endorsement).
 
 Mathematical models of the Mind's Eye(s)
 --
