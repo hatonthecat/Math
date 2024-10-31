@@ -1,5 +1,15 @@
 # Math
+
+A mathematical conjecture for the basis of humor types:
+
+“It’s funny because it’s true.” Turing completeness
+
+Absurd humor: Gödel's incompleteness theorem
+
+Meta humor- Poincaré’s torus
+
 Reference Material
+--
 
 https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/
 
