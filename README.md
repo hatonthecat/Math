@@ -11,6 +11,8 @@ Meta humor- Poincaré’s torus
 Reference Material
 --
 
+https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/
+
 https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/
 
 https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf
