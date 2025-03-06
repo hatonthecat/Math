@@ -11,6 +11,8 @@ Meta humor- Poincaré’s torus
 Reference Material
 --
 
+https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/
+
 https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/
 
 https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/
