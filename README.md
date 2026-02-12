@@ -1,12 +1,15 @@
 # Math
 
-Common Knowledge is actually a thing in math poetically concise proof via Aumann's 1976 "Agreeing to Disagree"
+Common Knowledge is actually a thing in math 
+--
 
+poetically concise proof via Aumann's 1976 "Agreeing to Disagree"
 https://scottaaronson.blog/?p=2410 
 https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem
 
 
 A mathematical conjecture for the basis of humor types:
+--
 
 “It’s funny because it’s true.” Turing completeness
 
