@@ -1,5 +1,10 @@
 # Math
 
+Link between Math & Physics
+--
+
+https://www.quantamagazine.org/secret-link-uncovered-between-pure-math-and-physics-20171201/
+
 Common Knowledge is actually a thing in math 
 --
 
