@@ -1,5 +1,14 @@
 # Math
 
+Navier-Stokes
+---
+
+https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness#2026_claims_of_proof
+
+https://social.coop/@cwebber/117236126658335889
+
+https://cims.nyu.edu/~tristanb/statement.pdf
+
 Link between Math & Physics
 --
 
