@@ -9,6 +9,13 @@ https://social.coop/@cwebber/117236126658335889
 
 https://cims.nyu.edu/~tristanb/statement.pdf
 
+https://x.com/SebastienBubeck/status/2097379411691516310 
+
+"
+2) I never ever asked for Levent to be removed from authorship of his own work (as indicated by my text). I was surprised to learn during the call with Tristan that they had only solved Euler and not Navier-Stokes; after learning this we brainstormed possible paths forward. One option we discussed was that Tristan could be the lead author on a rewrite of OpenAI’s Navier-Stokes proof. It is in that context that I said “it would be simpler if Levent was not an Anthropic employee” because I felt it would be inappropriate for an Anthropic employee to author OpenAI’s work. Importantly it was admitted that internal Anthropic models had been used in their proof of Euler blowup; I therefore felt I could not consider Levent to be an independent academic. Another option I wanted to propose (but got cut short) is to offer access to our internal model so that they could try to finish their proof and bridge the gap between Euler and NS. Again I did not know how to navigate giving access to internal OpenAI IP to an Anthropic employee.
+
+3) To reiterate it plainly: as my text clearly indicates, and as I said during our call, OpenAI's intention was to do everything possible to celebrate their mathematical achievements and the heroic efforts that they made on Euler. In the call I was immediately met with a litany of slander, including direct threats that if we were to announce Navier-Stokes he would immediately go to the press with a barrage of unfounded accusations. I refuted all these accusations but he replied “there is nothing you can do, I simply do not trust you”. I was confused why one would turn an incredible source for celebration (of their achievements!) into such bickering, which is when I said that I did not understand why one would risk their career [over unfounded accusations]. Genuinely, at that moment, I was trying to care for him and do a last ditch attempt to get a chance to give them all the credits that they deserve. I deeply apologize for this extremely poor choice of words, it is the opposite of what I was trying to convey. (I should say that I retracted them on the spot by the way.)"
+
 Link between Math & Physics
 --
 
