@@ -1,5 +1,10 @@
 # Math
 
+Gödel 
+---
+
+https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths
+
 Navier-Stokes
 ---
 
