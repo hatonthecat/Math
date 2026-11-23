@@ -1,5 +1,9 @@
 # Math
 
+Riemann
+--
+11-23-2026 Since the Riemann hypothesis was supposedly solved, a new hypothesis is needed. It can be called my last name’s hypothesis: That the results of the Riemann law suggest that the universe’s primes all imply some solvable future, whether it is the time and location of a future electron, proton, and other atomic particle. And therefore, the future could be predicted based on what physical reality prime numbers are linked to.
+
 Gödel 
 ---
 
